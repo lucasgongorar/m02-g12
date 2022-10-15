@@ -8,7 +8,7 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 	width: 900px;
 	padding: 20px 0px;
 	margin: 0px;
-	background: purple;
+	background: tan;
 	margin: 0 auto; /* centrar elementos dentro de este div */
 	float: center;  /* otras opciones son left, right */
 }
@@ -33,13 +33,13 @@ div{/* selecciona el div y lo pinta */
 	}
 
 h1{/* selecciona el header o titulo 1 y lo pinta */
-	background-color: pink;
+	background-color: brown;
 	width: 100%;
 	padding: 0px;
 	margin: 20px 0px;
 	border: 0px solid blue;
 	font-size: 28px;
-	color: hotpink;
+	color: white;
 	text-align: center;
 	font-family: 'Merriweather', serif;
 	}
