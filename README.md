@@ -2,5 +2,5 @@
 
 Integrantes:
 
-Lucas Góngora
-Darlyn tamara
+• Lucas Góngora
+• Darlyn Tamara
