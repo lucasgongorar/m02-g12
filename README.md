@@ -5,3 +5,4 @@ Integrantes:
 • Lucas Góngora<br>
 • Darlyn Tamara<br>
 • Valeria Marsino<br>
+• Antonia Schulze<br>
