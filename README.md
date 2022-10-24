@@ -8,3 +8,4 @@ Integrantes:
 • Antonia Schulze<br>
 • Josefa Venegas<br>
 • Isidora Villalobos<br>
+• Colomba González García<br>
