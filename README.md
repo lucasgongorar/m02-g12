@@ -7,3 +7,4 @@ Integrantes:
 • Valeria Marsino<br>
 • Antonia Schulze<br>
 • Josefa Venegas<br>
+• Isidora Villalobos<br>
