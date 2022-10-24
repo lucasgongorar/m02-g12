@@ -6,3 +6,4 @@ Integrantes:
 • Darlyn Tamara<br>
 • Valeria Marsino<br>
 • Antonia Schulze<br>
+• Josefa Venegas<br>
