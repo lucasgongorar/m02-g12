@@ -4,3 +4,8 @@ Integrantes:
 
 • Lucas Góngora<br>
 • Darlyn Tamara<br>
+• Valeria Marsino<br>
+• Antonia Schulze<br>
+• Josefa Venegas<br>
+• Isidora Villalobos<br>
+• Colomba González García<br>
