@@ -206,3 +206,62 @@ html {
 .autora .img {
 		margin-top: 30px;
 }
+
+#vinculo	.vinculos 	.titulovinculo{
+	color: dimgrey;
+		margin-right: 60px;
+		margin-left: 60px;
+		margin-top: 20px;
+		margin-bottom: 10px;
+}
+#vinculo .vinculos p {
+		font-size: 18px;
+		margin-bottom: 10px;
+		margin-top: 0px;
+		margin-left: 60px;
+}
+#vinculo .vinculos h3 {
+	color: #943194;
+		font-size: 18px;
+		margin-bottom: 10px;
+		margin-top: 10px;
+		margin-left: 60px;
+}
+
+#bibliografia .biblio a {
+		display: inline-block;
+		text-decoration: none;
+		border-radius: 8px;
+		border: 2px solid #C043D7;
+		padding: 7px 9px;
+		transition: .5s;
+		font-weight: 500;
+		margin-top: 10px;
+		
+}
+#bibliografia .biblio a:hover {
+		background-color: #C043D7;
+		color: whitesmoke;
+}
+#bibliografia .biblio a {
+		margin-left: 60px;
+}
+
+#nosotros{
+	width: 90%;
+	height: 90%;
+	background:#943194;
+	margin:5% auto;
+	padding: 20px;
+	border-radius: 10px;
+
+}
+
+#nosotros	.inf	.tituloseccion{
+	text-align: center;
+	color: black;
+}
+
+
+
+
